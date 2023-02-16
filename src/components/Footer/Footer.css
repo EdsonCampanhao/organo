@@ -1,0 +1,24 @@
+.footer{
+    background-color: #6278F7;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 200px;
+    height: 213px;
+    background-image: url('C:\Users\edson\OneDrive\Área de Trabalho\cursos em andamento\organo\public\imagens\fundo.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding: 0 162px;
+  }
+  .contatos ul{
+    display: flex;
+    list-style: none;
+    gap: 35px;
+    padding: 0 108px;
+  }
+  footer p{
+    padding-left: 100px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+  }
